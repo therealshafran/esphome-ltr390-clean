@@ -1,0 +1,5 @@
+name: ltr390
+version: "1.0.0"
+files:
+  - ltr390.cpp
+  - ltr390.h
